@@ -1,4 +1,6 @@
-package com.lit;
+package com.lit.api;
+
+import com.lit.model.IWordCount;
 
 import java.util.List;
 
